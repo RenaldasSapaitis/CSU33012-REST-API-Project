@@ -5,6 +5,8 @@ I will be using pygithub for the first part of this project, and will probaby us
 The first part was not too complex, but will probably be improved upon once the visualisation aspect comes into play.
 
 Resources used:
+
+https://github.com/octokit/rest.js/issues/243
 https://pygithub.readthedocs.io/en/latest/introduction.html
 https://pygithub.readthedocs.io/en/latest/apis.html
 

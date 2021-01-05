@@ -1,1 +1,43 @@
+body{
+  background: #deebff;
+  font-family: segoe;
+  margin: 0;
+}
+ ul{
+  margin: 0 auto;
+  padding: 0;
+}
+
+}
+
+main, header{
+
+  margin: 15px auto;
+  padding-left: 30px;
+  color: #000;
+}
+.node {
+  cursor: pointer;
+}
+
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.node--internal circle {
+  fill: #555;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #aaa, -1px 0 0 #aaa;
+}
+
+.link {
+  fill: none;
+  stroke: #aaa;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+
 

@@ -21,6 +21,18 @@ The second part involves visualising data from a github repository. My initial p
 
 This works with any org, but you have to manually change the link to the org you want to use inside app.js, i.e. https://api.github.com/orgs/google/repos. with this you can generate a JSON, which is in this repository. 
 
+To get this to work, simply download the code, and in your terminal do 
+
+    npm install express
+
+and then 
+
+    node app.js
+    
+finally, go to 
+
+    localhost:3069
+
 Resources used:
 
 https://github.com/octokit/rest.js/issues/243

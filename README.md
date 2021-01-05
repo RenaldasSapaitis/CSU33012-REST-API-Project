@@ -4,7 +4,7 @@ A repository for Software Engineering module, contains API implementation.
 
 *Part 1*
 
-"Interrogate the GitHub API to retrieve and display data regarding the logged in developer. See 'https://github.com/phadej/github'.
+"Interrogate the GitHub API to retrieve and display data regarding the logged in developer. See https://github.com/phadej/github.
 
 More information to follow later in the semester."
 

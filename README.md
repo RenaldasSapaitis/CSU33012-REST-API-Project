@@ -11,7 +11,7 @@ More information to follow later in the semester."
 This first part involves interrogating the Github API to retrieve data regarding the logged in developer. I will be using pygithub for the first part of this project, and will probaby be using JavaScript for the visualisation aspect of this project. 
 The first part was not too complex, but will probably be improved upon once the visualisation aspect comes into play.
 
-*Part2*
+*Part 2*
 
 "nterrogate the GitHub API to build visualisation of data available tht elucidates some aspect of the softare engineering process, such as a social graph of developers and projects, or a visualisation of indiviudal of team performance. Provide a visualisation of this using the d3js library. See https://d3js.org
 
